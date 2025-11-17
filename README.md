@@ -39,7 +39,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Logo USF" src="https://www.usf.edu.br/assets/images/logo-usf-horizontal.svg"/>](https://www.usf.edu.br/)
 **Análise e Desenvolvimento de Sistemas** \
-[**USF**](https://www.usf.edu.br/) • In progress\
+[**USF**](https://www.usf.edu.br/) • In progress 2º \
 Skills: `IC - Iniciação Científica, ML, DL` `Python` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
