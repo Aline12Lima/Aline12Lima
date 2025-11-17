@@ -35,16 +35,19 @@
 <br>
 
 ## Academic Background:
+## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Logo Universidade" src="hhttps://www.usf.edu.br/assets/images/logo-usf-horizontal.svg"/>](https://www.usf.edu.br/)
+[<img align="left" height="94px" width="94px" alt="Logo USF" src="https://www.usf.edu.br/assets/images/logo-usf-horizontal.svg"/>](https://www.usf.edu.br/)
 **Análise e Desenvolvimento de Sistemas** \
 [**USF**](https://www.usf.edu.br/) • In progress\
 Skills: `IC - Iniciação Científica, ML, DL` `Python` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Logo Curso" src="https://rocketseat.com.br/assets/images/logo-rocketseat.svg"/>](https://www.rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Logo Rocketseat" src="https://rocketseat.com.br/assets/images/logo-rocketseat.svg"/>](https://www.rocketseat.com.br/)
 **Programming Developer** \
 [**One Bit Code**](https://www.rocketseat.com.br/) • Concluído \
 Skills: `HTML5` `CSS3` `JavaScript` `TypeScript` `MySQL` `Git` `GitHub` `React` `Projects`
+
+<br>
 
 <br>
