@@ -7,30 +7,31 @@
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;JavaScript+%7C+React+%7C+AI+Enthusiast;Always+learning+new+things"
-    alt="Typing SVG"
   />
 </p>
 
 <br/>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&show_icons=true&theme=radical"
-    width="48%"
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&show_icons=true&theme=radical&cache_seconds=1800"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical"
-    width="40%"
-    alt="Top Languages"
+</p>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical&cache_seconds=1800"
   />
 </p>
 
 <br/>
 
 ## 🚀 Languages & Tools
+
 
 
 
