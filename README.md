@@ -7,19 +7,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;JavaScript+%7C+React+%7C+AI+Enthusiast;Always+learning+new+things" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;JavaScript+%7C+React+%7C+AI+Enthusiast;Always+learning+new+things"
+    alt="Typing SVG"
+  />
 </p>
 
-<br>
+<br/>
 
-<div align="center" style="margin-bottom:30px">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&theme=radical&show_icons=true" alt="Estatísticas do GitHub de Aline"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical" alt="Linguagens mais usadas por Aline"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&show_icons=true&theme=radical"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical"
+    width="40%"
+    alt="Top Languages"
+  />
+</p>
 
-<br>
+<br/>
 
 ## 🚀 Languages & Tools
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de computador">
