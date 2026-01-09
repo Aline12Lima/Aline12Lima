@@ -8,22 +8,6 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;JavaScript+%7C+React+%7C+AI+Enthusiast;Always+learning+new+things"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&show_icons=true&theme=radical&cache_seconds=1800"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical&cache_seconds=1800"
   />
 </p>
