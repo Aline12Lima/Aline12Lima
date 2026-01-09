@@ -1,17 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Aline+Lima;I%27m+Software+Engineering+Student)](https://git.io/typing-svg)
-
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
+
+<p align="center">
+  <a href="https://aline12lima.github.io/My-online-portfolio/" target="_blank">
+    🌐 Visit my Portfolio
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;JavaScript+%7C+React+%7C+AI+Enthusiast;Always+learning+new+things" />
+</p>
 
 <br>
 
 <div align="center" style="margin-bottom:30px">
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&theme=radical&show_icons=true" alt="Estatísticas do GitHub de Aline"/>
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical" alt="Linguagens mais usadas por Aline"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aline12Lima&theme=radical&show_icons=true" alt="Estatísticas do GitHub de Aline"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline12Lima&layout=compact&theme=radical" alt="Linguagens mais usadas por Aline"/>
 </div>
 
 <br>
 
-## Languages
+## 🚀 Languages & Tools
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de computador">
 
