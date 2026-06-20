@@ -1,53 +1,80 @@
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h3 align="center">"Talk is cheap. Show me the code." — Linus Torvalds</h3>
 
 <p align="center">
   <a href="https://aline12lima.github.io/My-online-portfolio/" target="_blank">
-    🌐 Visit my Portfolio
+    🌐 Portfolio
   </a>
 </p>
 
-<br/>
+---
+
+## 👩‍💻 About Me
+
+I'm a developer focused on **Artificial Intelligence** and **intelligent systems** — working with NLP, computer vision, machine learning, and workflow automation. I build practical AI solutions that bridge research and real-world applications.
+
+---
+
+## 🧠 AI & Machine Learning
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" align="right" alt="Computer illustration">
+
+#### Core Focus:
+
+[<img height="48px" width="48px" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
+[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org/)
+[<img height="48px" width="48px" alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch"/>](https://pytorch.org/)
+[<img height="48px" width="48px" alt="OpenCV" src="https://skillicons.dev/icons?i=opencv"/>](https://opencv.org/)
+
+**Domains:**
+- 🗣️ **NLP** — text processing, classification, language models
+- 🖼️ **Computer Vision** — image processing, object detection
+- 📊 **Machine Learning** — model training, evaluation, deployment
+- 🔁 **Workflow Automation** — n8n, AI-powered pipelines
+
+---
 
 ## 🚀 Languages & Tools
 
-
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de computador">
-
 #### Main Stack:
-[<img height="48px" width="48px" alt="Ícone HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
- [<img height="48px" width="48px" alt="Ícone CSS3" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
- [<img height="48px" width="48px" alt="Ícone JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [<img height="48px" width="48px" alt="Ícone Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org/en)
- [<img height="48px" width="48px" alt="Ícone React" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
-#### Studying in this moment:
-[<img height="48px" width="48px" alt="Ícone Python" src="https://skillicons.dev/icons?i=python"/>](https://python.com/)
- [<img height="48px" width="48px" alt="Ícone TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
- [<img height="48px" width="48px" alt="Ícone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org/)
+
+#### Infrastructure & DevOps:
+
+[<img height="48px" width="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
 #### Tools:
- [<img height="48px" width="48px" alt="Ícone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
- [<img height="48px" width="48px" alt="Ícone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
- [<img height="48px" width="48px" alt="Ícone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
-<br>
+[<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 
-## Academic Background:
-## Academic Background:
+---
+
+## 🎓 Academic Background
 
 [<img align="left" height="94px" width="94px" alt="Logo USF" src="https://www.usf.edu.br/assets/images/logo-usf-horizontal.svg"/>](https://www.usf.edu.br/)
+
 **Análise e Desenvolvimento de Sistemas** \
-[**USF**](https://www.usf.edu.br/) • In progress 2º \
-Skills: `IC - Iniciação Científica, ML, DL` `Python` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+[**USF**](https://www.usf.edu.br/) • In progress — 2º semester \
+`Scientific Research (IC)` `Machine Learning` `Deep Learning` `Python` `Software Architecture` `Software Security` `Software Quality` `Project Management`
+
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Logo Rocketseat" src="https://rocketseat.com.br/assets/images/logo-rocketseat.svg"/>](https://www.rocketseat.com.br/)
+
 **Programming Developer** \
-[**One Bit Code**](https://www.rocketseat.com.br/) • Concluído \
-Skills: `HTML5` `CSS3` `JavaScript` `TypeScript` `MySQL` `Git` `GitHub` `React` `Projects`
+[**One Bit Code**](https://www.rocketseat.com.br/) • Completed \
+`HTML5` `CSS3` `JavaScript` `TypeScript` `MySQL` `Git` `GitHub` `React` `Projects`
 
-<br>
+<br/>
+<br/>
 
-<br>
+---
+
+> *Currently deepening expertise in NLP, computer vision pipelines, and AI automation with n8n + Docker.*
