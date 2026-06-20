@@ -61,7 +61,7 @@ I'm a developer focused on **Artificial Intelligence** and **intelligent systems
 [<img align="left" height="94px" width="94px" alt="Logo USF" src="https://www.usf.edu.br/assets/images/logo-usf-horizontal.svg"/>](https://www.usf.edu.br/)
 
 **Análise e Desenvolvimento de Sistemas** \
-[**USF**](https://www.usf.edu.br/) • In progress — 2º semester \
+[**USF**](https://www.usf.edu.br/) • In progress — 3º semester \
 `Scientific Research (IC)` `Machine Learning` `Deep Learning` `Python` `Software Architecture` `Software Security` `Software Quality` `Project Management`
 
 <br/>
@@ -69,7 +69,7 @@ I'm a developer focused on **Artificial Intelligence** and **intelligent systems
 [<img align="left" height="94px" width="94px" alt="Logo Rocketseat" src="https://rocketseat.com.br/assets/images/logo-rocketseat.svg"/>](https://www.rocketseat.com.br/)
 
 **Programming Developer** \
-[**One Bit Code**](https://www.rocketseat.com.br/) • Completed \
+[**Rocketseat**](https://www.rocketseat.com.br/) • Completed \
 `HTML5` `CSS3` `JavaScript` `TypeScript` `MySQL` `Git` `GitHub` `React` `Projects`
 
 <br/>
